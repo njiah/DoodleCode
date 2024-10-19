@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../test/images
+
+
+nc: 18
+names: ['button', 'checkbox', 'container', 'icon-button', 'image', 'input', 'label', 'link', 'number-input', 'radio', 'search', 'select', 'slider', 'table', 'text', 'textarea', 'textbox', 'toggle']
+
+roboflow:
+  workspace: yj-w-pembf
+  project: webui-fheoa
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yj-w-pembf/webui-fheoa/dataset/4

@@ -32,8 +32,8 @@ See more options in main doodlecode.py file.
 ## Credits
 - [Ultralytics YoloV8](https://docs.ultralytics.com/)
 - [Keras & KerasCV](https://keras.io/)
-- Jago Gardiner
-- Jiah Linn
+- [Jago Gardiner](https://github.com/jagogardiner)
+- Jiah Linn (Me)
 - Amro Hassan Mahmoud
-- Joseph Cauvy-Foster
+- [Joseph Cauvy-Foster](https://github.com/josephcf166)
 - Tair Akhmetov

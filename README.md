@@ -33,7 +33,7 @@ See more options in main doodlecode.py file.
 - [Ultralytics YoloV8](https://docs.ultralytics.com/)
 - [Keras & KerasCV](https://keras.io/)
 - [Jago Gardiner](https://github.com/jagogardiner)
-- Jiah Linn (Me)
+- Jiah Linn 
 - Amro Hassan Mahmoud
 - [Joseph Cauvy-Foster](https://github.com/josephcf166)
 - Tair Akhmetov
